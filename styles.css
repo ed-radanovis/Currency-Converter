@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 18px;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #D6D3D1, #3F3F46);
+}
+
+.container {
+    width: 375px;
+    background-image: linear-gradient(to top,#D6D3D1, #3F3F46);
+    margin: 0 auto;
+    margin-top: 100px;
+    border: 2px solid #3F3F46;
+    border-radius: 4px;
+}
+
+header {
+    background-image: url(./Assets/header.jpg);
+    /* background-color: #A1A1AA ; */
+    /* background-image: linear-gradient( 135deg, #6da544 10%, #ffda44 35%,#FAFAFA 48%,transparent 50%, #FAFAFA 52%,#d80027 65%,#0152b4 90% ); */
+    border: 1px solid #3F3F46;
+    height: 100px;
+    border-radius: 6px;
+}
+
+h1 {
+    font-size: 40px;
+    color: #D6D3D1;
+    text-align: center;
+    padding-top: 40px;
+}
+
+main {
+    padding: 24px;
+}
+
+label {
+    font-size: 14px;
+    color: #D6D3D1;
+}
+
+select {
+    background: #D6D3D1;
+    border: 1px solid #BBBBBB;
+    border-radius: 12px;
+    height: 48px;
+    display: block;
+    width: 100%;
+    cursor: pointer;
+    appearance: none;
+    padding-left: 16px;
+    box-shadow: 5px 5px 8px rgba(48, 47, 47, 0.993);
+    margin-top: 6px;
+    margin-bottom: 23px;
+}
+
+input {
+    background: #D6D3D1;
+    border: 1px solid #BBBBBB;
+    border-radius: 12px;
+    height: 48px;
+    display: block;
+    width: 100%;
+    outline: none;
+    padding-left: 16px;
+    box-shadow: 5px 5px 8px rgba(48, 47, 47, 0.993);
+    font-size: 18px;
+}
+
+button {
+    background: #27272A;
+    border-radius: 25px;
+    height: 48px;
+    cursor: pointer;
+    color: #D6D3D1;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    width: 75%;
+    margin-left: 37px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    box-shadow: 3px 3px 6px rgba(206, 204, 204, 0.89);
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+button:active {
+    opacity: 0.7;
+}
+
+section {
+    border: 3px solid #777777;
+    border-radius: 16px;
+}
+
+.currency-container {
+    text-align: center;
+    padding: 10px;
+}
+
+.currency-name {
+    font-size: 14px;
+    color: #5c5c64;
+}  
+
+.currency-value {
+    font-weight: bold;
+    font-size: 20px;
+    color: #27272A;
+}
+
+.arrow-image{
+    margin: 15px auto;
+    display: block;   
+}
