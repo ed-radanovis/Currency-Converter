@@ -2,7 +2,7 @@
  Academic project finished
 
 <img src="./Assets/Print finished project.png" alt="page-image" width="300px">
-<img src="./Assets/Print finished project2.png" alt="page-image" width="300px">
+<img src="./Assets/Print finished project 2.png" alt="page-image" width="300px">
 
 > Result of the finished project.
 
@@ -11,8 +11,8 @@
 The project was fully completed and the following resources were used:
 
 - [x] HTML
-- [ ] CSS
-- [ ] JavaScript
+- [x] CSS
+- [x] JavaScript
 ## 🤝 Collaborators
 
 Thanks:
@@ -42,5 +42,5 @@ Thanks:
 </table>
 
 
-[⬆ Voltar ao topo](First-HTML-form)<br>
+[⬆ Voltar ao topo](Currency-Converter)<br>
 
