@@ -21,7 +21,7 @@ Thanks:
   <tr>
     <td align="center">
       <a href="https://github.com/ed-radanovis">
-        <img src="./Assets/my image.jpg" width="100px;" alt="Foto de Edmar Radanovis"/><br>
+        <img src="./Assets/foto perfil (4).jpeg" width="100px;" alt="Foto de Edmar Radanovis"/><br>
         <sub>
           <b>Edmar Radanovis</b>
         </sub>
@@ -42,6 +42,6 @@ Thanks:
 </table>
 
 
-[⬆ Voltar ao topo](# Currency-Converter)<br>
+[⬆ Voltar ao topo](#Currency-Converter)<br>
 
 
