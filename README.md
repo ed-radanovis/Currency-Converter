@@ -19,14 +19,14 @@ Thanks:
 
 <table>
   <tr>
-    <!-- <td align="center">
+    <td align="center">
       <a href="https://github.com/ed-radanovis">
         <img src="./Assets/my image.jpg" width="100px;" alt="Foto de Edmar Radanovis"/><br>
         <sub>
           <b>Edmar Radanovis</b>
         </sub>
       </a>
-    </td> -->
+    </td>
     <td align="center">
         <img src="./Assets/DevClub.png" width="130px;" alt="Logo DevClub"/><br>
         <sub>
@@ -42,5 +42,6 @@ Thanks:
 </table>
 
 
-[⬆ Voltar ao topo](Currency-Converter)<br>
+[⬆ Voltar ao topo](# Currency-Converter)<br>
+
 
