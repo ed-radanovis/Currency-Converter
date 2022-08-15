@@ -8,8 +8,8 @@
  
 <div align="center">
  <div style="display: flex;"> 
-  <img src="./Assets/Print finished project.png" alt="page-image" width="700px" >
-  <img src="./Assets/Print finished project 2.png" alt="page-image" width="285px" >
+  <img src="./Assets/Print finished project.png" alt="page-image" width="600px" >
+  <img src="./Assets/Print finished project 2.png" alt="page-image" width="245px" >
  </div>
 </div>
 
