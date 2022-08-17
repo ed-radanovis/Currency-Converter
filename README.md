@@ -35,8 +35,6 @@ The project was fully completed and the following resources were used:
 - [x] JavaScript
 ## 🤝 Collaborators
 
-Thanks:
-
 <table>
   <tr>
     <td align="center">
